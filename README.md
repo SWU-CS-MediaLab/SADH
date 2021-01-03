@@ -5,7 +5,9 @@
 
 # Citing SADH
 If you find SADH useful in your research, please consider citing: 
+
 ------
+
 @misc{yu2020,
 title={Self-supervised asymmetric deep hashing with margin-scalable constraint for image retrieval}, 
 author={Zhengyang Yu and Zhihao Dou and Song Wu},
