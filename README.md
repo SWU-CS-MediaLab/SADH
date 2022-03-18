@@ -16,11 +16,13 @@ This repository is Pytorch implementation of SADH, which mainly deals with deep 
 ## How to use
 You can easily train and test SADH via running:
 
-"""
+
+```
   labnet.py
   
   imgnet.py
-"""
+
+```
 You can download the datasets via:
 >[NUSWIDE](https://github.com/TreezzZ/DSDH_PyTorch)
 
@@ -29,7 +31,8 @@ You can download the datasets via:
 >[MIR-Flickr25k](https://press.liacs.nl/mirflickr/mirdownload.html)
 ## Citation
 
-"""
+
+```
   @article{article,
   title = {Deep hashing with self-supervised asymmetric semantic excavation and margin-scalable constraint},
   journal = {Neurocomputing},
@@ -40,7 +43,8 @@ You can download the datasets via:
   author = {Zhengyang Yu and Song Wu and Zhihao Dou and Erwin M. Bakker},
   keywords = {Deep supervised hashing, Asymmetric learning, Self-supervised learning}
   }
-"""
+
+```
 
 
 
