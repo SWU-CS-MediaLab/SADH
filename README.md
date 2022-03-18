@@ -27,9 +27,9 @@ You can download the datasets via:
 ## Citation
 
 > @article{article,
-  title = {Deep hashing with self-supervised asymmetric semantic excavation and margin-scalable constraint},
-  journal = {Neurocomputing},
-  volume = {483},
+>  title = {Deep hashing with self-supervised asymmetric semantic excavation and margin-scalable constraint},
+>  journal = {Neurocomputing},
+>  volume = {483},
   pages = {87-104},
   year = {2022},
   doi = {https://doi.org/10.1016/j.neucom.2022.01.082},
