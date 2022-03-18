@@ -14,11 +14,14 @@ This repository is Pytorch implementation of SADH, which mainly deals with deep 
 ## How to use
 You can easily train and test SADH via running:
 > labnet.py
-imgnet.py
+
+> imgnet.py
 
 You can download the datasets via:
 >[NUSWIDE](https://github.com/TreezzZ/DSDH_PyTorch)
+
 >[MS-COCO 2014](https://cocodataset.org/#download) 
+
 >[MIR-Flickr25k](https://press.liacs.nl/mirflickr/mirdownload.html)
 ## Citation
 
