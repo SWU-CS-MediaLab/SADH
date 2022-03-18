@@ -26,7 +26,7 @@ You can download the datasets via:
 >[MIR-Flickr25k](https://press.liacs.nl/mirflickr/mirdownload.html)
 ## Citation
 
-> @article{article,
+>  @article{article,
 >  title = {Deep hashing with self-supervised asymmetric semantic excavation and margin-scalable constraint},
 >  journal = {Neurocomputing},
 >  volume = {483},
