@@ -30,12 +30,12 @@ You can download the datasets via:
 >  title = {Deep hashing with self-supervised asymmetric semantic excavation and margin-scalable constraint},
 >  journal = {Neurocomputing},
 >  volume = {483},
-  pages = {87-104},
-  year = {2022},
-  doi = {https://doi.org/10.1016/j.neucom.2022.01.082},
-  author = {Zhengyang Yu and Song Wu and Zhihao Dou and Erwin M. Bakker},
-  keywords = {Deep supervised hashing, Asymmetric learning, Self-supervised learning}
-  }
+>  pages = {87-104},
+>  year = {2022},
+>  doi = {https://doi.org/10.1016/j.neucom.2022.01.082},
+>  author = {Zhengyang Yu and Song Wu and Zhihao Dou and Erwin M. Bakker},
+>  keywords = {Deep supervised hashing, Asymmetric learning, Self-supervised learning}
+>  }
 
 
 
