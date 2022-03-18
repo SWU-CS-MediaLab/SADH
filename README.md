@@ -26,7 +26,9 @@ You can download the datasets via:
 >[MIR-Flickr25k](https://press.liacs.nl/mirflickr/mirdownload.html)
 ## Citation
 
-"""@article{article,
+"""
+
+@article{article,
 title = {Deep hashing with self-supervised asymmetric semantic excavation and margin-scalable constraint},
 journal = {Neurocomputing},
 volume = {483},
@@ -35,7 +37,9 @@ year = {2022},
 doi = {https://doi.org/10.1016/j.neucom.2022.01.082},
 author = {Zhengyang Yu and Song Wu and Zhihao Dou and Erwin M. Bakker},
 keywords = {Deep supervised hashing, Asymmetric learning, Self-supervised learning}
-}"""
+}
+
+"""
 
 
 
