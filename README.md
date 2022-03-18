@@ -33,7 +33,7 @@ You can download the datasets via:
 >[MIR-Flickr25k](https://press.liacs.nl/mirflickr/mirdownload.html)
 
 
-## Citation
+## Cite this paper
 
 
 ```
