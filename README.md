@@ -4,7 +4,7 @@ Pytorch implementation of our paper for deep hashing retrieval.
 
 [Deep hashing with self-supervised asymmetric semantic excavation and margin-scalable constraint](https://www.sciencedirect.com/science/article/pii/S0925231222001035)
 
-by Zhengyang Yu, Song Wu, Zhihao Dou and Erwin M.Bakker
+by Zhengyang Yu, Song Wu*, Zhihao Dou and Erwin M.Bakker
 
 Neurocomputing, 2022
 
