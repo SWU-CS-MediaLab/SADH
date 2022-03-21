@@ -9,11 +9,6 @@ import numpy as np
 
 torch.multiprocessing.set_sharing_strategy('file_system')
 
-
-# DPSH(IJCAI2016)
-# paper [Feature Learning based Deep Supervised Hashing with Pairwise Labels](https://cs.nju.edu.cn/lwj/paper/IJCAI16_DPSH.pdf)
-# code [DPSH-pytorch](https://github.com/jiangqy/DPSH-pytorch)
-
 def get_config(alpha,lamda,eta,beta):
     config = {
         "alpha": alpha,
